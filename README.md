@@ -1,3 +1,10 @@
+Fork reasoning
+==============
+
+pysha3 is the most performant keccak library for Python, and it was not compatible with Python 3.11
+
+Check the package on: https://pypi.org/project/safe-pysha3/
+
 pysha3
 ======
 
